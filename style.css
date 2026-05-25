@@ -58,6 +58,8 @@ table {
   border-collapse: collapse;
   border: solid 1px #f0f0f0;
   min-width: 70%;
+　margin-left: auto;
+  margin-right: auto;
 }
 tr {
   background-color: #fff;
